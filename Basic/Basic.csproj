@@ -48,7 +48,7 @@
     <Compile Include="Hierarchies\IEntity.cs" />
     <Compile Include="Hierarchies\IPet.cs" />
     <Compile Include="Hierarchies\NavigateHierarchies.cs" />
-    <Compile Include="InspectThis\Inspecter.cs" />
+    <Compile Include="InspectThis\Inspector.cs" />
     <Compile Include="MoveCode\OutOfOrderMethods.cs" />
     <Compile Include="Rename\H.cs" />
     <Compile Include="Support\Proc\DataProcessor.cs" />
